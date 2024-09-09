@@ -73,7 +73,7 @@ Other places to get more instruction or information on R:
 
 ### Learn more about R-Ladies St. Louis
 
-Meetup: [https://www.meetup.com/rladies-st-louis/](https://www.meetup.com/rladies-st-louis/)  
-LinkedIn: [https://www.linkedin.com/company/r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis)  
-Join our Slack Workspace: [https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform)  
-YouTube: [https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw)  
+- Meetup: [https://www.meetup.com/rladies-st-louis/](https://www.meetup.com/rladies-st-louis/)  
+- LinkedIn: [https://www.linkedin.com/company/r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis)  
+- Join our Slack Workspace: [https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform)  
+- YouTube: [https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw)  
