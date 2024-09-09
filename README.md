@@ -1,4 +1,16 @@
-### Prepare for the Workshops
+### Welcome to the satuRday with R-Ladies: R for beginneRs Workshop Site!
+
+Join us for an in-person Meetup to get to know the local R-Ladies organizers and learn the basics of setting up your files and projects, understanding objects and functions, managing data with tidyverse, and creating basic plots with ggplot2. Here is the (draft) schedule:
+
+9am–9:15am Welcome & Introductions  
+9:15–10am Best Practices for Setting up R Projects (Materials [here]())  
+10am–11am Introduction to Functions and Objects (Materials [here]())  
+11am–noon Introduction to Tidyverse (Materials [here]())  
+noon–12:30pm LUNCH*   
+12:30pm–1:30pm Tidyverse II (Materials [here]())  
+1:30pm–2:30pm Introduction to ggplot2 for graphs (Materials [here]())  
+
+### Prepare for the Workshop
 
 R is a statistical software that is <a href = "https://www.r-project.org">free, open-source, and can run on most operating systems</a>. This means that anyone in the world with access to a computer and the internet can use it and anyone in the world can contribute to the development of new tools in R. 
 
@@ -58,3 +70,10 @@ Other places to get more instruction or information on R:
   <li> https://community.rstudio.com
   <li> ...and so many more!
 </ul>
+
+### Learn more about R-Ladies St. Louis
+
+Meetup: [https://www.meetup.com/rladies-st-louis/](https://www.meetup.com/rladies-st-louis/)
+LinkedIn: [https://www.linkedin.com/company/r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis)
+Join our Slack Workspace: [https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfD_SccoSE8dowF8QtD62e1WYghEeW-B8yUK7XN15Udazph5Q/viewform)
+YouTube: [https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw)
