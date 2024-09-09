@@ -1,6 +1,8 @@
 ### Welcome to the satuRday with R-Ladies: R for beginneRs Workshop Site!
 
-Join us for an in-person Meetup to get to know the local R-Ladies organizers and learn the basics of setting up your files and projects, understanding objects and functions, managing data with tidyverse, and creating basic plots with ggplot2. Here is the (draft) schedule:
+Join us for an in-person Meetup to get to know the local R-Ladies organizers and learn the basics of setting up your files and projects, understanding objects and functions, managing data with tidyverse, and creating basic plots with ggplot2. Register here: [https://www.meetup.com/rladies-st-louis/events/302160455/](https://www.meetup.com/rladies-st-louis/events/302160455/)
+
+Schedule:
 
 9am–9:15am Welcome & Introductions  
 9:15–10am Best Practices for Setting up R Projects (Materials [here]())  
