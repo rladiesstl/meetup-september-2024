@@ -8,7 +8,7 @@ Join us for an in-person Meetup to get to know the local R-Ladies organizers and
 11am–noon Introduction to Tidyverse (Materials [here]())  
 noon–12:30pm LUNCH*   
 12:30pm–1:30pm Tidyverse II (Materials [here]())  
-1:30pm–2:30pm Introduction to ggplot2 for graphs (Materials [here]())  
+1:30pm–2:30pm Introduction to ggplot2 for graphs (Materials [here](https://github.com/rladiesstl/meetup-september-2024/blob/main/intro-to-graphs-in-r-sept2024.Rmd))  
 
 ### Prepare for the Workshop
 
