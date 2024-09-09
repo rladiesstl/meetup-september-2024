@@ -71,7 +71,7 @@ Other places to get more instruction or information on R:
   <li> ...and so many more!
 </ul>
 
-### Learn more about R-Ladies St. Louis
+### Learn more about R-Ladies St. Louis!
 
 - Meetup: [https://www.meetup.com/rladies-st-louis/](https://www.meetup.com/rladies-st-louis/)  
 - LinkedIn: [https://www.linkedin.com/company/r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis)  
