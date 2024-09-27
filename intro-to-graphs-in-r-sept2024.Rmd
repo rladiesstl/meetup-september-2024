@@ -89,11 +89,11 @@ When you have completed the changes, click the little green arrow on the top rig
 starwarsRec %>%
   drop_na(gender) %>% 
   ggplot(aes(x = gender)) +
-  geom_bar(fill = "#7463AC") +
+  geom_bar(fill = "#fc9272") +
   labs(x = "Character Gender",
        y = "Frequency",
        title = "Gender of Star Wars Characters") +
-  theme_minimal()
+  theme_bw()
 
 ```
 
@@ -193,6 +193,9 @@ Copy and paste code from the stacked or grouped graph you like best and edit the
 
 When you have completed the changes, click the little green arrow on the top right of the code chunk to run the code.
 
+```{r chunk13}
+
+```
 
 
 ## Basic histogram
